@@ -1,0 +1,8 @@
+{
+  "name": "strava-oauth-backend",
+  "version": "1.0.0",
+  "description": "Secure Strava OAuth backend for GrvlFinder",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
